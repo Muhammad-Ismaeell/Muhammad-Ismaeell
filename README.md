@@ -21,7 +21,6 @@ Software Engineering graduate focused on full-stack web development with Python,
 ### 🌱 Currently
 
 - Building full-stack projects
-- Contributing to open source
 - Improving my software engineering skills
 - Looking for junior full-stack/software development opportunities
 
