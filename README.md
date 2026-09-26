@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Muhammad Ismaeel 👋
 
-<!--
-**Muhammad-Ismaeell/Muhammad-Ismaeell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering graduate focused on full-stack web development with Python, Django, and React.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Django & Django REST Framework
+- React
+- JavaScript
+- PostgreSQL / SQLite
+- REST APIs
+- Git & GitHub
+
+### 🚀 Featured Project
+
+**Anime Tracker** — A full-stack anime tracking application built with Django REST Framework and React.
+
+[View Anime Tracker](https://github.com/Muhammad-Ismaeell/anime-tracker)
+
+### 🌱 Currently
+
+- Building full-stack projects
+- Contributing to open source
+- Improving my software engineering skills
+- Looking for junior full-stack/software development opportunities
+
+### 📫 Contact
+
+GitHub: [@Muhammad-Ismaeell](https://github.com/Muhammad-Ismaeell)
