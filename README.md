@@ -17,6 +17,7 @@ Software Engineering graduate focused on full-stack web development with Python,
 **Anime Tracker** — A full-stack anime tracking application built with Django REST Framework and React.
 
 [View Anime Tracker](https://github.com/Muhammad-Ismaeell/anime-tracker)
+LinkedIn: [LinkedIn](www.linkedin.com/in/muhammad-ismaeel-73a083238)
 
 ### 🌱 Currently
 
